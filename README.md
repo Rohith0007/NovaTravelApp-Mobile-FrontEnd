@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
@@ -77,3 +77,22 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+# Nova-View
+
+Run instructions for Android:
+npx react-native run-android
+
+• Have an Android emulator running (quickest way to get started), or a device connected.
+• cd "/Users/rohithgupthakona/NOVA-Versions/Nova-View/novaView" && npx react-native run-android
+
+Run instructions for iOS:
+• cd "/Users/rohithgupthakona/NOVA-Versions/Nova-View/novaView"
+
+    • npx react-native run-ios
+    - or -
+    • Open novaView/ios/novaView.xcworkspace in Xcode or run "xed -b ios"
+    • Hit the Run button
+
+Run instructions for macOS:
+• See https://aka.ms/ReactNativeGuideMacOS for the latest up-to-date instructions.
